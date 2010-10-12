@@ -1,0 +1,4 @@
+Revision history for Perl extension Bundle::CygwinVendor
+
+0.01  2010-10-12 rurban
+	- original version as cygwin package perl-5.10.1-4

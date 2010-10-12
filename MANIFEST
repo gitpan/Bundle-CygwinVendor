@@ -1,0 +1,7 @@
+CygwinVendor.pm
+MANIFEST
+Changes
+README
+Makefile.PL
+META.yml                                 Module meta-data (added by MakeMaker)
+SIGNATURE                                Public-key signature (added by MakeMaker)
